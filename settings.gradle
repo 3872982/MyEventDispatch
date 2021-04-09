@@ -1,2 +1,3 @@
+include ':libMyEvent'
 include ':app'
 rootProject.name = "MyEventDisPatch"
